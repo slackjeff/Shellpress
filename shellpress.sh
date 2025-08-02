@@ -101,7 +101,6 @@ while [[ "$#" -gt 0 ]]; do
                 {
                     HEADER
                     MENU
-                    echo "✅ Gerando Página de últimos videos"
                     bash lib/modules/fetch-youtube-videos.sh
                     FOOTER
                 } > "${out_file}"

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+  <channel>
+    <title>Slackjeff Blog</title>
+    <link>https://slackjeff.com.br/blog/</link>
+    <description>Últimas postagens</description>
+    <language>pt-br</language>
+    <item>
+      <title> INAUGURAÇÃO DO BLOG E SHELLPRESS</title>
+      <link>https://slackjeff.com.br/blog/8be906d08bb37b39ec354269bfe44ed0.html</link>
+      <description> Após cair na tentação de mudar o esquema de como era feito meu site (com scripts shell) para wordpress eu me arrependi muito! Foram 10 anos praticamente utilizando sempre a abordagem de páginas estáticas minimalista e casa muito bem com a minha filosofia. Mas eu cai na tentação de amigos da tec me dizendo que não tinha mais visitas no site pq as pessoas mais comuns achavam que o site era desatualizado dos anos 90.</description>
+      <pubDate>sáb 02 ago 2025 18:24:57 -03</pubDate>
+    </item>
+    <item>
+      <title> TESTE AGORA</title>
+      <link>https://slackjeff.com.br/blog/81c21b993da4828453da90cff57d81ed.html</link>
+      <description> Escreva sua postagem aqui. </description>
+      <pubDate>sáb 02 ago 2025 19:35:27 -03</pubDate>
+    </item>
+    <item>
+      <title> MAIS UM TESTE</title>
+      <link>https://slackjeff.com.br/blog/65caa61a1fe094512d6c28b48d3977ad.html</link>
+      <description> Escreva sua postagem aqui. </description>
+      <pubDate>sáb 02 ago 2025 19:45:07 -03</pubDate>
+    </item>
+    <item>
+      <title> MAIS UM TESTE</title>
+      <link>https://slackjeff.com.br/blog/65caa61a1fe094512d6c28b48d3977ad.html</link>
+      <description> Escreva sua postagem aqui. </description>
+      <pubDate>sáb 02 ago 2025 19:48:49 -03</pubDate>
+    </item>
+    <item>
+      <title> MAIS UM TESTE</title>
+      <link>https://slackjeff.com.br/blog/65caa61a1fe094512d6c28b48d3977ad.html</link>
+      <description> Escreva sua postagem aqui. </description>
+      <pubDate>sáb 02 ago 2025 19:49:09 -03</pubDate>
+    </item>
+    <item>
+      <title> MAIS UM TESTE</title>
+      <link>https://slackjeff.com.br/blog/65caa61a1fe094512d6c28b48d3977ad.md</link>
+      <description> Escreva sua postagem aqui. </description>
+      <pubDate>sáb 02 ago 2025 20:31:25 -03</pubDate>
+    </item>
+    <item>
+      <title> MAIS UM TESTE</title>
+      <link>https://slackjeff.com.br/blog/65caa61a1fe094512d6c28b48d3977ad.md</link>
+      <description> Escreva sua postagem aqui. </description>
+      <pubDate>sáb 02 ago 2025 20:32:17 -03</pubDate>
+    </item>
+  </channel>
+</rss>

@@ -27,3 +27,6 @@
 
 - Todos módulos e programa principal foram passados com o shellcheck
   para garantir conformidade e limpeza.
+
+- Adicionado suporte a feed RSS em cada post. Para isso utilizado a
+  ferramenta xmlstarlet para atualização.
