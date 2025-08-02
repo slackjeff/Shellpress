@@ -1,0 +1,29 @@
+#====================================================================#
+# Versão 4.0 - Jefferson Carneiro
+#====================================================================#
+
+ Atualizações importantes foram feitas nesta versão para deixar o
+ Shellpress mais produtivo possivel e tambem portavel para ser
+ utilizado com ferramentas como o cron.
+
+- Criado esse CHANGELOG externo para facilitar as coisas.
+
+- Alterado nome 'build.sh' para 'shellpress.sh' .
+
+- Criado diretório 'lib' e movido módulos core como 'menu.sh' 'header'
+  e 'footer.sh' para lib/core/core.sh.
+  Módulos a partir foram movidos para lib/modules/
+
+- Foi incluido um módulo de blog totalmente funcional.
+  É criado páginas em markdown e convertido para html com a
+  ferramenta 'markdown' .
+
+- Adicionado argumento em linha para facilitar criação de páginas
+  avulsas. Por exemplo '--videos' para construir somente a páginas
+  de videos, ideal para usar no cron para executar 'y'  vezes ao dia.
+
+- Páginas não tem mais a a extensão .html, ao invés disso facilitamos
+  utilizando diretórios (videos/, sobre/, contato/) com index.html .
+
+- Todos módulos e programa principal foram passados com o shellcheck
+  para garantir conformidade e limpeza.

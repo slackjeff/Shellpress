@@ -1,0 +1,6 @@
+# Sobre os módulos
+Algumas regras para criações de módulos:
+
+    - Cada módulo deve trabalhar de forma independente.
+    - Ter seu próprio changelog e versão a parte do Shellpress.
+    - É obrigatório utilizar a shebang: #!/usr/bin/env bash .

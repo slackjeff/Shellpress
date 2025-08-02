@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/usr/bin/env bash
 #================================================================
 # Autor:
 #  Jefferson Carneiro <slackjeff@slackjeff.com.br>
@@ -6,6 +6,9 @@
 # Descrição:
 #  Módulo para pegar últimos (X) videos no canal slackjeff
 #  Pode ser utilizados para outros canais.
+#
+# Script verificado com ShellCheck (02/08/2025)
+# Aprovado com: shellcheck -x fetch-youtube-videos.sh
 #================================================================
 
 #==========================
@@ -17,6 +20,14 @@ VIDEOS=6  # Quantidade de vídeos a exibir
 #==========================
 # Início da renderização
 #==========================
+
+echo '<div class="terminal-text">'
+echo '<h2>root@slackjeff: Últimos Videos/</h2>'
+echo '</div>'
+
+echo "<h3>Última Atualização: $(date)</h3>"
+echo "<hr/>"
+
 echo '<div class="video-grid">'
 
 curl -s "$CHANNEL_URL" | \
